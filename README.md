@@ -1,2 +1,2 @@
 [![card](https://github-readme-stats.vercel.app/api?username=kayua&theme=default&show_icons=true&count_private=true)](https://github.com/kayua)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=kayua&hide=html&hide=10&layout=compact=true&theme=default&count_private=true)](https://github.com/kayua)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=kayua&hide=html&langs_count=5&layout=compact=true&theme=default&count_private=true)](https://github.com/kayua)
