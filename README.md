@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![alt text](layout/splash/layout_aedes.png)
 <!--
 **kayua/kayua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
