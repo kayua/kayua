@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/kayua">
-    <img height="180em" style="padding: 2px;" src="https://github-readme-stats.vercel.app/api?username=kayua&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img height="180em" style="padding: 2px;" src="https://github-readme-stats.vercel.app/api?username=kayua&show_icons=true&theme=default&include_all_commits=true&count_private=true&token=YOUR_GITHUB_TOKEN"/>
     <img height="5em" style="padding: 2px;" src="https://i.stack.imgur.com/CtiyS.png">
-    <img height="180em" style="padding: 2px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayua&layout=compact&langs_count=10&theme=default"/>
+    <img height="180em" style="padding: 2px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayua&layout=compact&langs_count=10&theme=default&token=YOUR_GITHUB_TOKEN"/>
   </a>
 </p>
