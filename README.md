@@ -7,23 +7,12 @@
 
 </div>
 
----
-
-## 🔬 Featured Research
-
-**[MalDataGen](https://github.com/SBSeg25/MalDataGen)** - Generative Dataset Library for Malware Research  
-A comprehensive framework for malware dataset generation and analysis.
-
----
-
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayua&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayua&layout=compact&langs_count=12&theme=default&hide_border=true"/>
+  <a href="https://github.com/kayua">
+    <img height="220em" style="padding: 2px;" src="https://github-readme-stats.vercel.app/api?username=kayua&show_icons=true&theme=default&include_all_commits=true&count_private=true&token=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"/>
+    <img height="220em" style="padding: 2px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayua&layout=compact&langs_count=12&theme=default&token=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"/>
+  </a>
 </p>
-
----
 
 ## 🔗 Connect
 
