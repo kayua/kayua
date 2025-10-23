@@ -3,7 +3,7 @@
 # Welcome to My GitHub Profile
 
 [![Webpage](https://img.shields.io/badge/Portfolio-Visit%20My%20Webpage-blue?style=for-the-badge&logo=github&logoColor=white)](https://kayua.github.io)
-[![SynDataGen](https://img.shields.io/badge/Research-SynDataGen%20Data%20Library-red?style=for-the-badge&logo=github&logoColor=white)](https://kayua.github.io/SyntheticDataGen.github.io/)
+[![SynDataGen](https://img.shields.io/badge/Research%20SynDataGen%20Library-red?style=for-the-badge&logo=github&logoColor=white)](https://kayua.github.io/SyntheticDataGen.github.io/)
 
 </div>
 
