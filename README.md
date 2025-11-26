@@ -10,13 +10,21 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayua&theme=github_dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayua&theme=github_dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayua&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayua&theme=default" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayua&theme=default" alt="Repos per Language"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayua&theme=default" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayua&theme=default" alt="Stats"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayua&theme=default&utcOffset=-3" alt="Productive Time"/>
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kayua&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kayua&theme=default" alt="GitHub Streak"/>
 </p>
