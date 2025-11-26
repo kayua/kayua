@@ -10,6 +10,5 @@
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayua&theme=default" alt="Profile Details"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayua&theme=default" alt="Repos per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayua&theme=default" alt="Most Commit Language"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayua&theme=default" alt="Stats"/>
 </p>
