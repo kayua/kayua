@@ -7,8 +7,16 @@
 
 </div>
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayua&theme=default" alt="Profile Details"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayua&theme=default" alt="Repos per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayua&theme=default" alt="Stats"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kayua&theme=github_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayua&theme=github_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayua&theme=github_dark"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kayua&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </p>
